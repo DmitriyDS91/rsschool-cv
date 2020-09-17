@@ -30,3 +30,28 @@ I have no experience in front-end development. I have a good background, which I
 **⑦** CorelDraw
 
 _\* on a scale of 10_
+
+## CODE SAMPLES
+Expected in the near future. (Wait for updates...)
+
+## EDUCATION
+**2007 - 2010**
+
+*K.Z. Kalanov Vocational College of Computer Technologies.*
+
+Software and network administration specialist. 
+
+**2010 - 2015**
+
+*Branch of the Gubkin Oil and Gas Research Institute in Tashkent city.*
+
+Specialist in the development and operation of oil and gas fields.
+
+**Self-education**
+
+Completed courses on HTML, CSS, JavaScript on [Code Basics](https://ru.code-basics.com/)
+
+## ENGLISH
+A2+. Pre-Intermediate
+
+[Test results](https://i.imgur.com/gMVNSVc.png "Test results")
